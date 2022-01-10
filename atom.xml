@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/inotr/orange</id>
+    <id>https://inotr.github.io/orange/</id>
     <title>Gridea</title>
-    <updated>2022-01-10T09:28:22.294Z</updated>
+    <updated>2022-01-10T09:52:50.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/inotr/orange"/>
-    <link rel="self" href="https://github.com/inotr/orange/atom.xml"/>
+    <link rel="alternate" href="https://inotr.github.io/orange/"/>
+    <link rel="self" href="https://inotr.github.io/orange/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://github.com/inotr/orange/images/avatar.png</logo>
-    <icon>https://github.com/inotr/orange/favicon.ico</icon>
+    <logo>https://inotr.github.io/orange/images/avatar.png</logo>
+    <icon>https://inotr.github.io/orange/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/inotr/orange/post/hello-gridea/</id>
-        <link href="https://github.com/inotr/orange/post/hello-gridea/">
+        <id>https://inotr.github.io/orange/post/hello-gridea/</id>
+        <link href="https://inotr.github.io/orange/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
